@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: log-o-matic-android
+Implementation-Version: 1.0.0
+
